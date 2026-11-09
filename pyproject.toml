@@ -1,7 +1,7 @@
 [project]
 name = "kvadapt"
 version = "0.1.0"
-description = "Add your description here"
+description = "KV-cache-aware request admission for vLLM"
 readme = "README.md"
 authors = [
     { name = "Theodorus Wensan Februanto", email = "theodoruswensanfebruanto025@gmail.com" }
