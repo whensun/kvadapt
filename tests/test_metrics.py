@@ -1,4 +1,3 @@
-
 import pytest
 from kvadapt.metrics import output_throughput
 

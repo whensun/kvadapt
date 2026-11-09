@@ -1,4 +1,3 @@
-
 from pathlib import Path
 
 from kvadapt.benchmark import load_workload

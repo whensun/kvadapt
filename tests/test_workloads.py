@@ -1,4 +1,3 @@
-
 import pytest
 from kvadapt.workloads import build_workload, write_workload
 

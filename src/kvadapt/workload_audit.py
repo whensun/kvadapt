@@ -1,4 +1,3 @@
-
 from collections import Counter
 
 def audit_workload(requests: list[dict]) -> dict:

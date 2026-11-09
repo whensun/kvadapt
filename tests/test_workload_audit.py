@@ -1,4 +1,3 @@
-
 import pytest
 
 from kvadapt.workload_audit import audit_workload
